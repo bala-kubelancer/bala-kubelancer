@@ -21,7 +21,7 @@ I’m passionate about **Cloud, DevOps, DevSecOps, Kubernetes, GitOps, IaC, and 
 
 **Cloud Platform:** AWS | Azure | GCP  
 **IaC & Automation:** Terraform | Ansible | OpenTofu | 
-**Containers & Orchestration:** Docker | Kubernetes | EKS | GKE | AKS | Helm | Kustomize
+**Containerization:** Docker | Kubernetes | EKS | GKE | AKS | Helm | Kustomize
 **CI/CD:** GitHub Actions | GitLab CI | Jenkins | Cloud Agnostic DevOps Tools
 **Monitoring & Logging:** Prometheus | Grafana | NewRelic | OpenSearch | Sentry | OpeneTelemetry 
 **Databases & Caches:** MySQL | PostgreSQL | Redis | MongoDB  
