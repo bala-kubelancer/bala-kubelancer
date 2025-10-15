@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm BalaSubramani Kuppusamy  
+# 👋 Howdy!, I'm BalaSubramani Kuppusamy  
 
-** Cloud Solution Architect |  DevOps Engineer |  Infrastructure Engineer**  
+**Cloud Solution Architect | Lead DevOps Engineer |  Infrastructure Engineer | Cloud Migration and Modernization Specialist**  
 
 Welcome to my GitHub profile!  
 
@@ -8,7 +8,7 @@ I design, build, and optimize secure, scalable, and automated cloud infrastructu
 I’m passionate about **Cloud, DevOps, DevSecOps, Kubernetes, GitOps, IaC, and Cloud-Native**.
 
 
-### 🌟 Currently Working On
+### 🌟 Currently Focus On
 
 - Building AI-powered **DevOps Automation Frameworks**
 - Focus in MLOps , AIOps
@@ -19,8 +19,8 @@ I’m passionate about **Cloud, DevOps, DevSecOps, Kubernetes, GitOps, IaC, and 
 
 ### 🧰 Tech Stack
 
-**Cloud & Infra:** AWS | Azure | GCP  
-**IaC & Automation:** Terraform | Ansible | OpenTofu  
+**Cloud Platform:** AWS | Azure | GCP  
+**IaC & Automation:** Terraform | Ansible | OpenTofu | 
 **Containers & Orchestration:** Docker | Kubernetes | EKS | GKE | AKS | Helm | Kustomize
 **CI/CD:** GitHub Actions | GitLab CI | Jenkins | Cloud Agnostic DevOps Tools
 **Monitoring & Logging:** Prometheus | Grafana | NewRelic | OpenSearch | Sentry | OpeneTelemetry 
