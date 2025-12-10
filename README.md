@@ -1,8 +1,9 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianKokot/animated-gradients/main/gradients/gradient1.gif" width="100%" style="border-radius: 12px;" />
+  <img src="https://github.com/bala-kubelancer/media/blob/main/aboutme.png" width="100%" />
 </p>
 
+<br/>
 
 <h1 align="center">👋 Howdy!, I'm <span style="color:#9333ea;">BalaSubramani Kuppusamy</span></h1>
 
@@ -13,7 +14,8 @@
 
 ---
 
-## ⚙️ **Services I Provide**
+
+## **Services I Provide**
 
 <p align="center">I help startups, SaaS companies, and enterprises design, migrate, and operate modern cloud-native platforms with security, reliability, and cost efficiency.</p>
 
@@ -31,7 +33,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -87,19 +89,23 @@
 
 ---
 
-## 🌟 Featured Projects
+## My Links
+
+### 🔹 **My Works**  
+Resume, Experience..etc  
+https://bala-kubelancer.github.io/balawork/
 
 ### 🔹 **Kubelancer CloudLabs**  
-🚀 Real-world labs for AWS, Kubernetes, GitOps & Terraform  
-👉 https://labs.kubelancer.com
+Real-world labs for AWS, Kubernetes, GitOps & Terraform  
+https://labs.kubelancer.com
 
 ### 🔹 **Technical Blogs**  
-📘 Cloud, DevOps, IaC & Observability  
-👉 https://bala-kubelancer.medium.com
+Cloud, DevOps, IaC & Observability  
+https://bala-kubelancer.medium.com
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/bala-kubelancer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -110,22 +116,17 @@
 
 ---
 
-## ✨ Fun Quote  
+## Fun Quote  
 > **“Artificial Intelligence doesn’t replace humans — it amplifies them.”**
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BalaSubramani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaSubramani&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianKokot/animated-gradients/main/gradients/gradient11.gif" width="100%" style="border-radius: 12px;" />
+  <img src="https://github.com/bala-kubelancer/media/blob/main/devops-secops-gitops.png" width="100%" style="border-radius: 12px;" />
 </p>
 
 
