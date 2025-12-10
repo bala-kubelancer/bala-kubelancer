@@ -1,64 +1,119 @@
-# 👋 Howdy!, I'm BalaSubramani Kuppusamy  
+<!-- Animated Gradient Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/TFcQ8pY.gif" width="100%" style="border-radius: 12px;" />
+</p>
 
-**Cloud Solution Architect | Lead DevOps Engineer |  Infrastructure Engineer | Cloud Migration and Modernization Specialist**  
+<h1 align="center">👋 Howdy!, I'm <span style="color:#9333ea;">BalaSubramani Kuppusamy</span></h1>
 
-Welcome to my GitHub profile!  
-
-I design, build, and optimize secure, scalable, and automated cloud infrastructures for startups and enterprises.  
-I’m passionate about **Cloud, DevOps, DevSecOps, Kubernetes, GitOps, IaC, and Cloud-Native**.
-
-
-### 🌟 Currently Focus On
-
-- Building AI-powered **DevOps Automation Frameworks**
-- Focus in MLOps , AIOps
-- Providing **DevOps as a Service (DaaS)** for startups and SMEs
-- Experimenting with **OpenTelemetry** for observability
-  
----
-
-### 🧰 Tech Stack
-
-**Cloud Platform:** AWS | Azure | GCP  
-**IaC & Automation:** Terraform | Ansible | OpenTofu | 
-**Containerization:** Docker | Kubernetes | EKS | GKE | AKS | Helm | Kustomize
-**CI/CD:** GitHub Actions | GitLab CI | Jenkins | Cloud Agnostic DevOps Tools
-**Monitoring & Logging:** Prometheus | Grafana | NewRelic | OpenSearch | Sentry | OpeneTelemetry 
-**Databases & Caches:** MySQL | PostgreSQL | Redis | MongoDB  
-**Security & SSO:** Zitadel | AWS SSO | Vault  
-**Scripting & Tools:** Python | Bash | Git | Linux
+<p align="center">
+  <strong>Cloud Solution Architect • Lead DevOps Engineer • Infrastructure Specialist</strong><br/>
+  <em>I design secure, scalable & automated cloud-native platforms.</em>
+</p>
 
 ---
 
-### 🧪 Featured Projects
+## 🚀 About Me
 
-🔹 [**Kubelancer CloudLabs**](https://labs.kubelancer.com)  
-Hands-on cloud and DevOps labs to learn AWS, Kubernetes, Terraform, and GitOps with real-world examples.
-
-🔹 [**Blogs**](https://bala-kubelancer.medium.com)  
-Monthly subscription services for DevOps, Cloud Infrastructure, GitOps, and Monitoring.
+I help startups & enterprises build **high-availability, cost-optimized, secure cloud infrastructures** using  
+**AWS, Kubernetes, GitOps, DevOps Automation, IaC, Observability & DevSecOps.**
 
 ---
 
-### 📫 Get in Touch
+## 🧠 Tech Stack
 
-**BalaSubramani Kuppusamy**  
-_Cloud Solution Architect | DevOps Engineer | Infrastructure Engineer_  
+<p align="center">
 
-📞 **Schedule a Free 30-Minute Call:** [https://calendly.com/bala-kubelancer/30min](https://calendly.com/bala-kubelancer/30min)  
-🌐 **Website:** [https://bala.kubelancer.com](https://bala.kubelancer.com)  
-✉️ **Email:** [bala@kubelancer.com](mailto:bala@kubelancer.com)  
-💼 **LinkedIn:** [https://linkedin.com/in/bala-kubelancer](https://linkedin.com/in/bala-kubelancer)  
-🧠 **Labs:** [https://labs.kubelancer.com](https://labs.kubelancer.com)
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<br/>
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTofu-%2300BFA6.svg?style=for-the-badge&logo=opentofu&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-%EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+
+<br/>
+
+<!-- Kubernetes -->
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-%2303366D.svg?style=for-the-badge&logo=istio&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
+
+<br/>
+
+<!-- CI/CD -->
+<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-%23F5792A.svg?style=for-the-badge&logo=argo&logoColor=white" />
+
+<br/>
+
+<!-- Monitoring -->
+<img src="https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-7F51F3?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+
+<br/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</p>
 
 ---
 
-### ⚡ Fun Fact  
-I believe **“Artificial Intelligent isn’t about replacing humans — it’s about amplifying them.”**
+## 🚀 Current Focus
+
+- 🔥 Building **AI-powered DevOps Automation Frameworks**  
+- 🤖 Exploring **AIOps & MLOps**  
+- 🛠️ Delivering **DevOps as a Service (DaaS)**  
+- 📡 Implementing **OpenTelemetry** end-to-end  
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
 
-![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaSubramani&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaSubramani&layout=compact&theme=tokyonight)
+### 🔹 **Kubelancer CloudLabs**  
+🚀 Real-world labs for AWS, Kubernetes, GitOps & Terraform  
+👉 https://labs.kubelancer.com
+
+### 🔹 **Technical Blogs**  
+📘 Cloud, DevOps, IaC & Observability  
+👉 https://bala-kubelancer.medium.com
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/bala-kubelancer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bala@kubelancer.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://bala.kubelancer.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://calendly.com/bala-kubelancer/30min"><img src="https://img.shields.io/badge/Schedule_Call-%2300ADEF.svg?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Quote  
+> **“Artificial Intelligence doesn’t replace humans — it amplifies them.”**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BalaSubramani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaSubramani&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/GYB4gV5.gif" width="100%" style="border-radius: 12px;" />
+</p>
+
+<h3 align="center">🚀 Let's Build the Future of Cloud, DevOps & AI Together</h3>
