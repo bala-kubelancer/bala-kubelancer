@@ -1,7 +1,8 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/TFcQ8pY.gif" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/AdrianKokot/animated-gradients/main/gradients/gradient1.gif" width="100%" style="border-radius: 12px;" />
 </p>
+
 
 <h1 align="center">👋 Howdy!, I'm <span style="color:#9333ea;">BalaSubramani Kuppusamy</span></h1>
 
@@ -12,10 +13,21 @@
 
 ---
 
-## 🚀 About Me
+## ⚙️ **Services I Provide**
 
-I help startups & enterprises build **high-availability, cost-optimized, secure cloud infrastructures** using  
-**AWS, Kubernetes, GitOps, DevOps Automation, IaC, Observability & DevSecOps.**
+<p align="center">I help startups, SaaS companies, and enterprises design, migrate, and operate modern cloud-native platforms with security, reliability, and cost efficiency.</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloud_Migration-AWS | GCP | Azure-4f46e5?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Cloud_Cost_Optimization-%23F59E0B?style=for-the-badge&logo=amazons3&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/DevOps_&_GitOps-Implementation-22c55e?style=for-the-badge&logo=argo&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CI/CD_Automation-GitHub_Actions | GitLab | ArgoCD-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Kubernetes_&_Service_Mesh-Istio-0ea5e9?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/DevSecOps_&_Monitoring-NewRelic | PagerDuty-9333ea?style=for-the-badge&logo=newrelic&logoColor=white" />
+
+</p>
 
 ---
 
@@ -66,12 +78,12 @@ I help startups & enterprises build **high-availability, cost-optimized, secure 
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔥 Building **AI-powered DevOps Automation Frameworks**  
-- 🤖 Exploring **AIOps & MLOps**  
-- 🛠️ Delivering **DevOps as a Service (DaaS)**  
-- 📡 Implementing **OpenTelemetry** end-to-end  
+- Building **AI-powered DevOps Automation Frameworks**  
+- Exploring **AIOps & MLOps**  
+- Delivering **DevOps as a Service (DaaS)**  
+- Implementing **OpenTelemetry** end-to-end  
 
 ---
 
@@ -113,7 +125,8 @@ I help startups & enterprises build **high-availability, cost-optimized, secure 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/GYB4gV5.gif" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/AdrianKokot/animated-gradients/main/gradients/gradient11.gif" width="100%" style="border-radius: 12px;" />
 </p>
+
 
 <h3 align="center">🚀 Let's Build the Future of Cloud, DevOps & AI Together</h3>
