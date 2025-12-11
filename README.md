@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://github.com/bala-kubelancer/media/blob/main/aboutme.png" width="100%" />
+  <img src="https://github.com/bala-kubelancer/media/blob/main/bala-banner.png" width="60%" />
 </p>
 
 <br/>
