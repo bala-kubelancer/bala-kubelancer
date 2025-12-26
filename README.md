@@ -8,7 +8,7 @@
 <h1 align="center">👋 Howdy!, I'm <span style="color:#9333ea;">BalaSubramani Kuppusamy</span></h1>
 
 <p align="center">
-  <strong>Cloud Solution Architect • Lead DevOps Engineer • Infrastructure Specialist</strong><br/>
+  <strong> • Cloud & Kubernetes Infrastructure Partner • Senior Cloud Solution Architect • Lead DevOps Engineer </strong><br/>
   <em>I design secure, scalable & automated cloud-native platforms.</em>
 </p>
 
@@ -125,9 +125,6 @@ https://bala-kubelancer.medium.com
 
 ---
 
-<p align="center">
-  <img src="https://github.com/bala-kubelancer/media/blob/main/devops-secops-gitops.png" width="100%" style="border-radius: 12px;" />
-</p>
 
 
-<h3 align="center">🚀 Let's Build the Future of Cloud, DevOps & AI Together</h3>
+<h3 align="center"> Let's Build the Future of Cloud, DevOps & AI Together</h3>
